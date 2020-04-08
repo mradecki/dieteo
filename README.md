@@ -4,4 +4,4 @@ Lorem ipsum
 
 # 2 
 
-Bla bi di bla
+Bla bi di bla [I'm an inline-style link](https://www.google.com)
